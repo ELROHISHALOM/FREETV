@@ -1,0 +1,85 @@
+#EXTM3U
+#EXTINF:8,Vos Tv (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://ott.streann.com:8080/loadbalancer/services/public/channels/59e60c4997381ef50d15c041/playlist.m3u8
+#EXTINF:32,WTV Canal 20 (720p)
+#EXTVLCOPT:network-caching=1000
+https://cloudvideo.servers10.com:8081/8130/index.m3u8
+#EXTINF:60,CGTN Español (576p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
+#EXTINF:1800,DW Español (1080p)
+#EXTVLCOPT:network-caching=1000
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:20,RT en Español (1080p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:32,teleSUR (1080p)
+#EXTVLCOPT:network-caching=1000
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:60,Al Jazeera English (1080p)
+#EXTVLCOPT:network-caching=1000
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:30,Canal 26 (720p)
+#EXTVLCOPT:network-caching=1000
+http://200.115.193.177/live/26hd-720/playlist.m3u8
+#EXTINF:60,CGTN (576p)
+#EXTVLCOPT:network-caching=1000
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:1800,DW English (1080p)
+#EXTVLCOPT:network-caching=1000
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:46,Locomotion TV (480p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:30,Metro Globe Network (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
+#EXTINF:30,Nuevo Tiempo (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
+#EXTINF:29,Radio San Borja TV (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
+#EXTINF:90,Red Bull TV (1080p)
+#EXTVLCOPT:network-caching=1000
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:20,RT Documentary (1080p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
+#EXTINF:20,RT News (1080p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:60,SEO TV (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
+#EXTINF:60,SEO TV Novelas (540p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://panel.seo.tv.bo:3337/live/franzbalboa2live.m3u8
+#EXTINF:60,Tastemade en Español (1080p)
+#EXTVLCOPT:network-caching=1000
+https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
+#EXTINF:20,Tevex (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://v4.tustreaming.cl/tevexinter/index.m3u8
+#EXTINF:60,TRT World (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:40,TVG América (720p)
+#EXTVLCOPT:network-caching=1000
+https://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0,TVM Internacional (480p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
+#EXTINF:60,UCL TV (360p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu_2.m3u8
+#EXTINF:29,UN Web TV (540p)
+#EXTVLCOPT:network-caching=1000
+https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
+#EXTINF:31,Vallenato Internacional (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
+#EXTINF:114,World Poker Tour (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
